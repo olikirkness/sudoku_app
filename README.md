@@ -1,3 +1,7 @@
+# Self solving sudoku board
+
+This project uses tesseract.js to identify characters in an image of a sudoku board and attempts to complete it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
